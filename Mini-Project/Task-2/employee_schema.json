@@ -1,0 +1,56 @@
+{
+    "fields":[
+        
+        {
+            "name": "Emp_ID",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Name",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Gender",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Email",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Date_of_Birth",
+            "type": "DATE",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Date_of_Joining",
+            "type": "DATE",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Age_in_Company",
+            "type": "FLOAT",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Salary",
+            "type": "FLOAT",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Created_Time",
+            "type": "DATETIME",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Modified_Time",
+            "type": "DATETIME",
+            "mode": "NULLABLE"
+        }
+
+    ]
+}

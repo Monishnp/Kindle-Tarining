@@ -1,0 +1,65 @@
+{
+    "fields":[
+
+        {
+            "name": "ID",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Emp_ID",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Father_Name",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Mother_Name",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Age_in_Yrs",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Weight_in_Kgs",
+            "type": "FLOAT",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Phone_No",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "State",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Zip",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Region",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Created_Time",
+            "type": "DATETIME",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "Modified_Time",
+            "type": "DATETIME",
+            "mode": "NULLABLE"
+        }
+    ]
+}
